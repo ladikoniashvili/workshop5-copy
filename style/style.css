@@ -43,6 +43,9 @@ header nav ul li a{
     border-bottom:solid #C3C3C3;
     height: 2px;  
 }
+main h2 a{
+    color: #ffffff;
+}
 main h2 span{
     font-size: 128pt;
 }
