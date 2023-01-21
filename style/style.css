@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-size: 12pt;
+    font-family: firago;
+    
+}
+@font-face {
+    font-family: firago;
+    src: url(../font/FiraGO-Regular.ttf);
+}
+
+body{
+    background-color: #000000;
+}
+header{
+    padding: 24px 98px;
+    height: 100px;
+}
+header h1{
+    float: left;
+    margin-right: 60%;
+    
+}
+header h1 a{
+    color: #ffffff;
+}
+header nav ul li{
+    
+    float: left;
+    padding: 10px;
+    
+}
+header nav ul li a{
+    color: #ffffff;
+}
+/* ---------------- header--------- */
+
+.xazi{
+    border-bottom:solid #C3C3C3;
+    height: 2px;  
+}
+main h2 span{
+    font-size: 128pt;
+}
+
+
+
+
+main h2{
+    font-size: 128pt;
+    letter-spacing: 100px;
+    color: #ffffff;
+    margin: 30px 10px;
+    font-family: sembold;
+    
+}
+@font-face {
+    font-family: sembold;
+    src: url(../font/FiraGO-SemiBold.ttf);
+}
+p{
+    width: 33.3%;
+    color: #ffffff;
+    float: left;
+    padding: 10px;
+    overflow: hidden;
+    font-size: 12px;
+}
+.xazi1{
+ height: 2px;
+ background-color: #ffffff;
+ margin-top: 180px;
+}
+/* divvvv da p morcha */
+
+article h2{
+    font-size: 12pt;
+    letter-spacing: 0;
+    padding: 10px;
+    
+}
+article{
+    width: 33%;
+    float: left;
+    
+}
+
+article .werili img{
+    width: 100%;
+    height: 628px;
+    padding: 10px;
+}
+h2 a span{
+    font-size: 12pt;
+
+}
+/* article rcheba aqqqqqqq -----------*/
+.xazi2{
+    height: 2px;
+    background-color: #ffffff;
+    margin-top: 800px;
+   }
+
+footer img{
+    width: 100px;
+    height: 100px;
+    margin: 20px ;
+    float: left;
+
+}
+footer p{
+    margin: 20px 0;
+
+
+}
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
