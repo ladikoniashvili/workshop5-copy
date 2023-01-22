@@ -65,20 +65,53 @@ main h2{
     font-family: sembold;
     src: url(../font/FiraGO-SemiBold.ttf);
 }
-p{
-    width: 33.3%;
-    color: #ffffff;
-    float: left;
-    padding: 10px;
-    overflow: hidden;
-    font-size: 12px;
-}
+
+
+  
+    
+
+
+
+    
+
+
 .xazi1{
  height: 2px;
  background-color: #ffffff;
- margin-top: 180px;
+ margin-top: 250px;
 }
 /* divvvv da p morcha */
+.boxich{
+    width: 100%;
+    display: flex;
+    justify-self: space-between;
+    color: #ffffff;
+    
+    
+
+}
+.pirveli{
+    flex-direction: column;
+    margin: 20px;
+
+}
+.meore{
+    flex-direction: column;
+}
+.mesame {
+    flex-direction: column;
+    
+     
+}
+.mesame .ptii{
+    margin-top: 15px;
+}
+
+
+    
+    
+
+
 
 article h2{
     font-size: 12pt;
@@ -102,24 +135,45 @@ h2 a span{
 
 }
 /* article rcheba aqqqqqqq -----------*/
+
 .xazi2{
     height: 2px;
     background-color: #ffffff;
     margin-top: 800px;
    }
 
-footer img{
+.rating{
+    width: 300px;
+    display: flex;
+    
+    
+    
+    
+}
+
+    
+    
+
+.rating img{
     width: 100px;
     height: 100px;
-    margin: 20px ;
-    float: left;
-
+    margin: 20px auto;
 }
-footer p{
-    margin: 20px 0;
-
-
+.roten{
+    flex-direction: column;
+    margin-top: 40px;
+    
 }
+.roten p{
+    color: #ffffff;
+    margin-right: 70px;
+    
+    
+}
+
+
+
+
 
 
     
